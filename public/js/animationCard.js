@@ -39,3 +39,4 @@ document.getElementById('socialCardMain3').onmouseleave = function(){
         document.getElementById('socialCardBody3').classList.remove('card-body-experienced-hovered');
         }, 300)
 }
+

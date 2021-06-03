@@ -41,6 +41,7 @@ class ContatoController extends Controller
         $contato->email = $request->email;
         $contato->message = $request->message;
         $contato->save();
+        return 200;
     }
 
     /**

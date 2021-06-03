@@ -27,7 +27,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="#page-top">
+                <a class="navbar-brand" href="#home">
                     <img class="img-navbar-logo" src="images/logo.png" alt="">
                 </a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -35,8 +35,8 @@
                     <ul class="navbar-nav ms-5 ps-4 my-2 my-lg-0">
                         <li class="nav-item"><a class="nav-link" href="#home">HOME</a></li>
                         <li class="nav-item"><a class="nav-link" href="#about">ABOUT</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">FEATURE</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#services">SERVICE</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#feature">FEATURE</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#service">SERVICE</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">CONTACT</a></li>
                     </ul>
                 </div>
@@ -74,7 +74,7 @@
             </div>
         </header>
         <!-- About-->
-        <section class="page-section" id="about">
+        <section id="about">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-9 text-center">
@@ -87,8 +87,8 @@
                 </div>
             </div>
         </section>
-        <!-- Portfolio-->
-        <section id="portfolio">
+        <!-- feature-->
+        <section id="feature">
             <div class="container-fluid p-0">
                 <div class="row g-0">
                     <div class="col-lg-3 col-sm-6">
@@ -148,8 +148,8 @@
                 </div>
             </div>
         </section>
-        <!-- Services-->
-        <section class="page-section" id="services">
+        <!-- Service-->
+        <section class="page-section" id="service">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 text-center">
